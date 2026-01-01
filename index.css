@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(to right, #141E30, #243B55);
+  color: white;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  margin-top: 15%;
+}
+
+button {
+  padding: 12px 18px;
+  border-radius: 8px;
+  background-color: gold;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
