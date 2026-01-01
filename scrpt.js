@@ -1,3 +1,9 @@
-function wish() {
-  alert("🎉 Wishing you a Happy & Prosperous New Year! 🎉");
+function personalWish() {
+  let name = document.getElementById("name").value;
+
+  if (name === "") {
+    alert("Please enter your name 😊");
+  } else {
+    alert("🎉 Happy New Year " + name + "! 🎉");
+  }
 }
