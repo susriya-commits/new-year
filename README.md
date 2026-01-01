@@ -7,7 +7,7 @@
 <body>
   <div class="container">
     <h1>🎆 Happy New Year 2026 🎆</h1>
-    <p>May your year be filled with happiness and success!</p>
+    <p>i wish you a very happy happy new year kiddos!</p>
       <canvas id="fireworks"></canvas>
     <input type="text" id="name" placeholder="sriyaaa">
     <br><br>
